@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760205890237",
+    "project_id": "adiblar-hayoti-de86d",
+    "storage_bucket": "adiblar-hayoti-de86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760205890237:android:98f21cb8b7845806b05dd4",
+        "android_client_info": {
+          "package_name": "mr.sardorek.adiblarhayoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760205890237-8n46rftquc5nfglvv61epkeurh0t0iae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Jfk3PA-j3hObWPZHF8bG9GjOHZLWx28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760205890237-8n46rftquc5nfglvv61epkeurh0t0iae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
